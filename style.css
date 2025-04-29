@@ -1,0 +1,13 @@
+link {background-color: burlywood;
+width: 10px;
+
+
+}
+#poga{
+background: url("pirktabilde.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+width: 200px;
+height: 201px;
+background-color: hotpink;
+}
